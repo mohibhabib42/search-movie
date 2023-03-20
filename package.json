@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/mohibhabib42/search-movie",
-  "name": "movie-search",
+  "name": "search-movie",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
