@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mohibhabib42/search-movie/static/css/main.8c17782e.css",
+    "main.js": "/mohibhabib42/search-movie/static/js/main.b990b892.js",
+    "static/js/787.b2dfefea.chunk.js": "/mohibhabib42/search-movie/static/js/787.b2dfefea.chunk.js",
+    "index.html": "/mohibhabib42/search-movie/index.html",
+    "main.8c17782e.css.map": "/mohibhabib42/search-movie/static/css/main.8c17782e.css.map",
+    "main.b990b892.js.map": "/mohibhabib42/search-movie/static/js/main.b990b892.js.map",
+    "787.b2dfefea.chunk.js.map": "/mohibhabib42/search-movie/static/js/787.b2dfefea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c17782e.css",
+    "static/js/main.b990b892.js"
+  ]
+}
